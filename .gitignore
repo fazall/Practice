@@ -11,10 +11,14 @@ bin-release/
 /BackGroundService/bin
 /ErrorApp/obj
 /ErrorApp/bin
-/ParentApi/obj/Debug/net5.0/*.cache
-/ParentApi/obj/Debug/net5.0/*.dll
-/ErrorApp/obj/Debug/net5.0/*.pdb
-/ErrorApp/bin/Debug/net5.0/*.dll
+
+/ParentApi/obj
+/ParentApi/bin
+
+#/ParentApi/obj/Debug/net5.0/*.cache
+#/ParentApi/obj/Debug/net5.0/*.dll
+#/ErrorApp/obj/Debug/net5.0/*.pdb
+#/ErrorApp/bin/Debug/net5.0/*.dll
 /RabbitMqSubscriberWorker/obj
 /RabbitMqSubscriberWorker/bin
 
