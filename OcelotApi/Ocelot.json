@@ -1,0 +1,19 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/WeatherForecast",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "26952"
+        }
+      ],
+      "UpstreamPathTemplate": "/WeatherForecast",
+      "Key": "WeatherForecast"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:34856"
+  }
+}
