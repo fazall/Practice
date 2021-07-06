@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCMJxJO6cEGifkiQ47Ygp7TtLjN8pOcUGHTBUJocj1YqgIJLTlKqrwaKCEusT+nYQkddXKKG4i9CS7R5pW0WDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\F.SHKINWALL\\Desktop\\EX\\BackGroundService\\RabbitMqadaSubscriberWorker\\RabbitMqSubscriberWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\F.SHKINWALL\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\F.SHKINWALL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\F.SHKINWALL\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\F.SHKINWALL\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\5.0.0\\microsoft.extensions.hosting.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\F.SHKINWALL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
