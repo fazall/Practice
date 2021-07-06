@@ -12,6 +12,7 @@ bin-release/
 /ErrorApp/obj
 /ErrorApp/bin
 /ParentApi/obj
+*.cache
 /ParentApi/bin
 /RabbitMqSubscriberWorker/obj
 /RabbitMqSubscriberWorker/bin
