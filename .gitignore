@@ -11,8 +11,11 @@ bin-release/
 /BackGroundService/bin
 /ErrorApp/obj
 /ErrorApp/bin
-/ParentApi/obj/Debug/net5.0/ParentApi.csprojAssemblyReference.cache
-/ParentApi/bin
+/ParentApi/obj/Debug/net5.0/*.cache
+/ParentApi/obj/Debug/net5.0/*.dll
+/ParentApi/obj/Debug/net5.0/*.pdb
+/ParentApi/bin/Debug/net5.0/*.dll
+/ParentApi/bin/Debug/net5.0/*.pdb
 /RabbitMqSubscriberWorker/obj
 /RabbitMqSubscriberWorker/bin
 
