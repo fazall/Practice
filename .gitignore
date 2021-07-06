@@ -7,6 +7,17 @@ bin-release/
 # Other files and folders
 .settings/
 
+/BackGroundService/obj
+/BackGroundService/bin
+/ErrorApp/obj
+/ErrorApp/bin
+/ParentApi/obj
+/ParentApi/bin
+/RabbitMqSubscriberWorker/obj
+/RabbitMqSubscriberWorker/bin
+
+
+
 # Executables
 *.swf
 *.air

@@ -26,3 +26,4 @@ C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\ErrorApp\obj\Debug\net5.0\Erro
 C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\ErrorApp\obj\Debug\net5.0\ref\ErrorApp.dll
 C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\ErrorApp\obj\Debug\net5.0\ErrorApp.pdb
 C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\ErrorApp\obj\Debug\net5.0\ErrorApp.genruntimeconfig.cache
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\ErrorApp\obj\Debug\net5.0\ErrorApp.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.deps.json
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.dll
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\bin\Debug\net5.0\ref\RabbitMqSubscriberWorker.dll
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.pdb
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.csprojAssemblyReference.cache
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.AssemblyInfoInputs.cache
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.AssemblyInfo.cs
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.csproj.CoreCompileInputs.cache
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.dll
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\ref\RabbitMqSubscriberWorker.dll
+C:\Users\F.SHKINWALL\Desktop\EX\BackGroundService\RabbitMqadaSubscriberWorker\obj\Debug\net5.0\RabbitMqSubscriberWorker.pdb
