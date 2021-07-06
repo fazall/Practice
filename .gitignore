@@ -13,9 +13,8 @@ bin-release/
 /ErrorApp/bin
 /ParentApi/obj/Debug/net5.0/*.cache
 /ParentApi/obj/Debug/net5.0/*.dll
-/ParentApi/obj/Debug/net5.0/*.pdb
-/ParentApi/bin/Debug/net5.0/*.dll
-/ParentApi/bin/Debug/net5.0/*.pdb
+/ErrorApp/obj/Debug/net5.0/*.pdb
+/ErrorApp/bin/Debug/net5.0/*.dll
 /RabbitMqSubscriberWorker/obj
 /RabbitMqSubscriberWorker/bin
 
